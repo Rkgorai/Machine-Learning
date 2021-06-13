@@ -1,0 +1,8 @@
+{
+    "name" : "rahul",
+    "marks" : 90,
+    "subjects" : ["eng,", "maths", "sci"],
+    "friends" : {
+        "pulkit" : "android"
+    }
+}
